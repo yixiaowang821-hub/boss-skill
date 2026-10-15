@@ -1,0 +1,3 @@
+interface:
+  display_name: "求职沟通助手"
+  short_description: "只读分析招聘要求与HR聊天，生成自然真实、推动面试沟通的回复草稿"
